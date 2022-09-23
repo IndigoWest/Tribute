@@ -1,9 +1,24 @@
-.myimg {
+.myimg{
 	width: 300px;
 	height: 300px;
 	object-fit: cover;
 	border-radius: 50%;
+	display: block;
+	margin: 0 auto;
+	padding: 0px;
+	border: 3px solid ghostwhite;
+	outline: 0px;
 }
-#header {
+#header{
 	text-align: center;
+}
+body{
+	background-image: url(https://www.freepnglogos.com/uploads/supernatural-logo/supernatural-logo-season-png-0.jpg) ;
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+mark{
+	background-color: ghostwhite;
 }
