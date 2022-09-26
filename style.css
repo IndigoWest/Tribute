@@ -18,7 +18,24 @@ body{
 	background-position: center;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
+	font-family: 'times new roman';
+	color: #3D555F;
 }
 mark{
 	background-color: ghostwhite;
+}
+#desc1{
+	font-size: 30px;
+}
+#desc2{
+	margin-left: 150px;
+	font-size: 30px;
+}
+#desc3{
+	margin-left: 150px;
+	font-size: 30px;
+}
+ul{
+	font-size: 20px;
+	width: 60%;
 }
