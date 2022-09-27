@@ -19,7 +19,6 @@ body{
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	font-family: 'times new roman';
-	color: #3D555F;
 }
 mark{
 	background-color: ghostwhite;
@@ -35,7 +34,16 @@ mark{
 	margin-left: 150px;
 	font-size: 30px;
 }
-ul{
+ul ol{
 	font-size: 20px;
 	width: 60%;
+}
+#spoilers{
+	font-size: 20px;
+	text-align: center;
+}
+#watchoptions{
+	text-align: center;
+	margin-left: 400px;
+	margin-right: 400px;
 }
