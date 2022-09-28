@@ -12,7 +12,7 @@
 #header{
 	text-align: center;
 }
-body{
+#mainpagebody{
 	background-image: url(https://www.freepnglogos.com/uploads/supernatural-logo/supernatural-logo-season-png-0.jpg) ;
 	background-size: cover;
 	background-position: center;
@@ -34,9 +34,9 @@ mark{
 	margin-left: 150px;
 	font-size: 30px;
 }
-ul ol{
+ul, ol{
 	font-size: 20px;
-	width: 60%;
+	width: 40%;
 }
 #spoilers{
 	font-size: 20px;
@@ -46,4 +46,26 @@ ul ol{
 	text-align: center;
 	margin-left: 400px;
 	margin-right: 400px;
+}
+button{
+	font-weight: bold;
+	font-size: 24px;
+	padding: 10px 200px;
+	margin: 10px;
+	font-family: times new roman;
+	border: solid;
+	display: block;
+	margin: 40px auto;
+	border-radius: 50px;
+	color: black;
+	background-color: ghostwhite;
+}
+#bibbody{
+	background-image: url(https://www.freepnglogos.com/uploads/supernatural-logo/supernatural-logo-season-png-0.jpg);
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	font-family: 'times new roman';
+	font-size: 20px;
 }
