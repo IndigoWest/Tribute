@@ -11,6 +11,7 @@
 }
 #header{
 	text-align: center;
+	font-size: 50px;
 }
 #mainpagebody{
 	background-image: url(https://www.freepnglogos.com/uploads/supernatural-logo/supernatural-logo-season-png-0.jpg) ;
@@ -67,5 +68,9 @@ button{
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	font-family: 'times new roman';
-	font-size: 20px;
+}
+#citations{
+	font-size: 30px;
+	width: 40%;
+	font-family: 'times new roman';
 }
